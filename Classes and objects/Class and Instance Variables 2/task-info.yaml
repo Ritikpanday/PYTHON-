@@ -13,8 +13,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: ua/M2+iWZm7WCvwVYQp1VQ==
         selected: false
-        status: Unchecked
-      - offset: 254
+        status: Solved
+      - offset: 295
         length: 88
         placeholder_text: "# TODO: call add_city method to add the city name to the list\
       \ upon object initialization"
@@ -24,9 +24,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: lKQycAlH5Ryo8+FH/IOIxw==
         selected: false
-        status: Unchecked
-      - offset: 376
-        length: 119
+        status: Solved
+      - offset: 417
+        length: 148
         placeholder_text: |-
           pass
                   # TODO: implement a method that will append a city name to the all_cities list. Delete the pass statement!
@@ -35,8 +35,8 @@ files:
           offset: 376
         initialized_from_dependency: false
         encrypted_possible_answer: nukI0rEjTOPML4K9e+6aReZVWZTIrsYu6gdN3UOx0i1CqFy4iAglx4wtXftfknuW
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -47,5 +47,8 @@ files:
   - name: tests/__init__.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 07 Jul 2024 16:58:26 UTC"
 record: -1

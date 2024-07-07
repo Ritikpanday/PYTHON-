@@ -1,14 +1,15 @@
 class City:
     # TODO: add a mutable class variable (all_cities list) to store all added city names
-
+    all_cities=[]
     def __init__(self, name, population, country):
         self.name = name
         self.population = population
         self.country = country
+        self.add_city()
         # TODO: call add_city method to add the city name to the list upon object initialization
 
     def add_city(self):
-        pass
+        self.all_cities.append(self.name)
         # TODO: implement a method that will append a city name to the all_cities list. Delete the pass statement!
 
 
