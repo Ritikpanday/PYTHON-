@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 158
-        length: 3
+        length: 17
         placeholder_text: ???
         initial_state:
           length: 3
@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: fRnzOmL6+X/hft3WaQJC9kfhbxizNYI63Ijp2a6xS0s=
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/__init__.py
     visible: false
@@ -21,5 +21,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Classes+and+Objects+/+Special+init+method
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 07 Jul 2024 12:42:25 UTC"
 record: -1

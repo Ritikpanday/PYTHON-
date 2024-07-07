@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 208
-        length: 79
+        length: 92
         placeholder_text: "# TODO: set the exponentiation `base`, it should be equal to\
       \ the current value."
         initial_state:
@@ -12,9 +12,9 @@ files:
           offset: 208
         initialized_from_dependency: false
         encrypted_possible_answer: jqLCfDFztuS5w/E471PR8A==
-        selected: false
-        status: Unchecked
-      - offset: 335
+        selected: true
+        status: Solved
+      - offset: 381
         length: 84
         placeholder_text: "# TODO: use the `multiply` method with the parameter `base`\
       \ to calculate the result."
@@ -24,7 +24,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: wv1iQ5Lt5x7EI6bC1RZ/Hm5oglfrF6IHqMJR4dbY5j8=
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -35,5 +35,8 @@ files:
   - name: tests/__init__.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 07 Jul 2024 12:41:46 UTC"
 record: -1

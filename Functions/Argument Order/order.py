@@ -5,4 +5,4 @@ def print_table(height, length=3, symbol='++++'):
         print('|\n')
 
 
-print_table(length=5, 5, '____')
+print_table(length=5, height=5, symbol='____')

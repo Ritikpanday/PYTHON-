@@ -10,16 +10,18 @@ def fib(n):
     Return a list containing the Fibonacci series up to n."""
     result = []
     a = 1
-    b = # Assign an initial value to the b variable
+    b = 1  # Assign an initial value to the b variable
     while a < n:
         result.append(a)
         tmp_var = b
+        b = a + b
+        a = tmp_var
         # Update the b variable with a sum
         # Restore the old value of the b variable to the a variable from the temp
     # Here we need to return the result to the caller
+    return result
+
 
 
 if __name__ == '__main__':
     print(fib(10))
-
-
