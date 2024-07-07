@@ -15,27 +15,27 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: Iskug2+xFWxAL98ZSpQCibISedlP4HTOl+vcnYH2GFg=
         selected: false
-        status: Unchecked
-      - offset: 95
-        length: 65
+        status: Solved
+      - offset: 112
+        length: 23
         placeholder_text: '''Create a new instance of Calculator class defined in calculator'''
         initial_state:
           length: 65
           offset: 95
         initialized_from_dependency: false
         encrypted_possible_answer: eLx1AxUD4z+yNObeYy+kk+2+w2qPTTWpakHmK7ZY0Mc=
-        selected: false
-        status: Unchecked
-      - offset: 186
-        length: 62
+        selected: true
+        status: Solved
+      - offset: 161
+        length: 78
         placeholder_text: '# Use Calculator method `add` to add `i` to the current value.'
         initial_state:
           length: 62
           offset: 186
         initialized_from_dependency: false
         encrypted_possible_answer: ePAFwr9x/zJ4Gl3OZoawJQ==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: calculator.py
     visible: true
@@ -47,5 +47,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Modules+and+Packages+/+Import+module
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 07 Jul 2024 17:47:52 UTC"
 record: -1

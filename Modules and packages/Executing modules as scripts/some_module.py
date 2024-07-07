@@ -5,5 +5,6 @@ def func():
 print(f'This is a message from {__name__}.')
 
 # Make a change here (add a main block)
-print('This should not be printed when this file is imported')
+if __name__=='__main__':
+    print('This should not be printed when this file is imported')
 

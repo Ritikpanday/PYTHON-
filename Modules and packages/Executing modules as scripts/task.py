@@ -1,8 +1,9 @@
-import some_module
+from some_module import func
 
 print(f'This is a message from {__name__}.')
-# Call func() from the imported module
+func()
 
 # Make a change here (add a main block)
-print('This should be printed ONLY when task.py is called directly.')
+if __name__ == "_main__":
+    print('This should be printed ONLY when task.py is called directly.')
 
