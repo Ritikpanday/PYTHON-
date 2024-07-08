@@ -13,7 +13,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: wbhX2Ha7O1/X0iVchBHKRjyA4hAX7qv4ZQvwfTB45qM=
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -27,5 +27,8 @@ files:
   - name: input.txt
     visible: true
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 08 Jul 2024 02:38:38 UTC"
 record: -1

@@ -18,27 +18,27 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: qldKCgYVF2l+jSyWRt1TGg==
         selected: false
-        status: Unchecked
+        status: Solved
       - offset: 71
-        length: 17
+        length: 56
         placeholder_text: '# print each line'
         initial_state:
           length: 17
           offset: 71
         initialized_from_dependency: false
         encrypted_possible_answer: qkOfPSZqO8qfMrjBkZtmHQ==
-        selected: false
-        status: Unchecked
-      - offset: 131
-        length: 29
+        selected: true
+        status: Solved
+      - offset: 170
+        length: 52
         placeholder_text: '# print only first line of f1'
         initial_state:
           length: 29
           offset: 131
         initialized_from_dependency: false
         encrypted_possible_answer: PKm5pW7PfvD7hXfl++tL+Q7BYpgSVqidhQpC4vP5XqQ=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/__init__.py
     visible: false
@@ -47,5 +47,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=File+Input+Output+/+Read+file
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 08 Jul 2024 02:33:57 UTC"
 record: -1
