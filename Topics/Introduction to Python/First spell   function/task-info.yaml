@@ -10,7 +10,12 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/47391#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 09 Jul 2024 07:07:25 UTC"
 record: -1
+selected_options:
+  - 0
 custom_name: "First spell : function"
 local_check: false

@@ -5,6 +5,9 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/47329#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 09 Jul 2024 07:06:25 UTC"
 record: -1
 submission_language: python3
