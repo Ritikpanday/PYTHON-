@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: How<br>are<br> you?
+  - text: How are you?
+  - text: How<br>are you?
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47561#comment
+status: Unchecked
+record: -1
+local_check: false
