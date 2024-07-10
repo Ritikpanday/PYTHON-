@@ -3,6 +3,8 @@ import numpy as np
 
 def create_arrays(x, y):
     # TODO
+    a = np.ones([x, y], dtype=int)
+    b = np.zeros((y, x), dtype=bool)
     return a, b
 
 

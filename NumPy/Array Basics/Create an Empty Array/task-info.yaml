@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 50
-        length: 6
+        length: 78
         placeholder_text: '# TODO'
         initial_state:
           length: 6
           offset: 50
         initialized_from_dependency: false
         encrypted_possible_answer: tcUCkqglUQPCFldiGQuKqDi+NgJ5K/hDRrrlWXQWrwINv14QMT5APTOUbNJCBb/oUnJINOfHJJwX3GYuP3KMnB+wipZKCGnRlUeFy0T7qDg=
-        selected: false
+        selected: true
         status: Unchecked
     learner_created: false
   - name: tests/test_task.py
